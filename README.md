@@ -1,5 +1,5 @@
 # ping_pong-game
-The repository contains a prototupe of the
+The repository contains a prototype of the
 Ping-pong game. It is a multiplayer game...
 
 The game was implemented in Python
